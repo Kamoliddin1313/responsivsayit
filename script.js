@@ -9,7 +9,7 @@ let nextPageImg = document.querySelector("#nextPageImg");
 const openBtn=document.querySelector(".openBtn")
 const nav2=document.querySelector(".nav2")
 openBtn.addEventListener("click",()=>{
-  nav2.classList.toggle(".activ1")
+  nav2.classList.toggle("activ1")
   console.log(nav2);
 
 })
